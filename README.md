@@ -1,4 +1,4 @@
-## Inventory: Evaluating the Performance of LLMs in Drafting NIH Data Management Plans (Paper)
+## Inventory: NIH DMPs LLM Evaluation Paper
 
 ## About
 
@@ -8,4 +8,5 @@ This repository serves as an inventory of all resources associated with our pape
 |----------|------------------------|------------------------------------|
 | Paper    | Coming soon            | Coming soon                        |
 | Dataset  | Coming soon    | N/A |
-| Code     | Coming soon   | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code |
+| Code (generating DMPs)    | Coming soon   | https://github.com/fairdataihub/nih-dmp-llm-generation |
+| Code (Analysis)    | Coming soon   | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code |
