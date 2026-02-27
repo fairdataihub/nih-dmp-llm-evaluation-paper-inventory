@@ -1,0 +1,49 @@
+{
+  "name": "nih-dmp-llm-evaluation-paper-inventoty",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub, California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "email": "nzeinali@calmi2.org",
+      "familyName": "Zeinali",
+      "id": "https://github.com/fairdataihub",
+      "givenName": "Nahid",
+      "type": "Person"
+    },
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub, California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "email": "bpatel@calmi2.org",
+      "familyName": "Patel",
+      "id": "https://github.com/fairdataihub",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-inventoty",
+  "dateCreated": "2026-02-25",
+  "datePublished": "2026-01-08",
+  "description": "This repository contains the code associated with the paper, “Evaluating the Performance of LLMs in Drafting NIH Data Management Plans.”",
+  "funder": {
+    "name": "https://github.com/fairdataihub",
+    "type": "Organization"
+  },
+  "funding": "https://github.com/fairdataihub/LLM-RAG-demo",
+  "issueTracker": "https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-inventoty/issues",
+  "keywords": [
+    "LLM",
+    "DMP",
+    "NIH",
+    "evaluation"
+  ],
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "type": "SoftwareSourceCode"
+}
