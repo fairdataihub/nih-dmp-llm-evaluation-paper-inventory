@@ -1,0 +1,22 @@
+title: nih-dmp-llm-evaluation-paper-inventoty
+authors:
+  - given-names: Nahid
+    family-names: Zeinali
+    email: nzeinali@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Bhavesh
+    family-names: Patel
+    email: bpatel@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: This repository contains the code associated with the paper,
+  “Evaluating the Performance of LLMs in Drafting NIH Data Management Plans.”
+keywords:
+  - LLM
+  - DMP
+  - NIH
+  - evaluation
+license: CC-BY-4.0
+repository-code: https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-inventoty
