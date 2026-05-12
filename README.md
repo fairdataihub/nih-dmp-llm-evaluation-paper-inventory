@@ -6,4 +6,4 @@ This repository serves as an inventory of all resources associated with our pape
 |----------|------------------------|------------------------------------|
 | Dataset  | https://doi.org/10.5281/zenodo.19456208   | N/A |
 | Code (generating DMPs)    | https://doi.org/10.5281/zenodo.19462642   | https://github.com/fairdataihub/nih-dmp-llm-generation |
-| Code (Analysis)    | Coming soon   | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code |
+| Code (Analysis)    | https://doi.org/10.5281/zenodo.20145725  | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code |
